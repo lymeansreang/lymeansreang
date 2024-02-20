@@ -12,4 +12,4 @@
 
 [![Skills](https://skillicons.dev/icons?i=html,css,js,flutter,dart,tailwind,postgres,figma,git,php,laravel,postman)](https://skillicons.dev)
 
-![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@sreang&layout=compact&theme=dark#gh-dark-mode-only)
+![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sreang&layout=compact&theme=dark#gh-dark-mode-only)
