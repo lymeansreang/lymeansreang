@@ -8,11 +8,6 @@
 - 📫 How to reach me **lmsreang3@gmail.com**
 
 
-
-
-
-
-
 <h3 align="left">Languages and Tools:</h3>
 
 [![Skills](https://skillicons.dev/icons?i=html,css,js,flutter,dart,tailwind,postgres,figma,git,php,laravel,postman)](https://skillicons.dev)
