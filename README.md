@@ -7,6 +7,8 @@
 
 - 📫 How to reach me **lmsreang3@gmail.com**
 
+### Live View Count
+![](https://gh-hits.nomadcoders.workers.dev/view?username=lymeansreang)
 
 <h3 align="left">Languages and Tools:</h3>
 
