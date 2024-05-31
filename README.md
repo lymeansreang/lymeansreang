@@ -11,6 +11,10 @@
 
 [![Skills](https://skillicons.dev/icons?i=html,css,js,flutter,dart,tailwind,postgres,figma,git,php,laravel,postman)](https://skillicons.dev)
 
+## Live View Count
+
+![](https://gh-hits.nomadcoders.workers.dev/view?username=lymeansreang)
+
 ## My GitHub Stats
 
 <a href="http://www.github.com/lymeansreang"><img src="https://github-readme-stats.vercel.app/api?username=lymeansreang&show_icons=true&layout=compact&theme=dark" alt="lymeansreang's GitHub stats" /></a>
