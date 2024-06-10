@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ly Meansreang</h1>
-<h3 align="center">Currently I'm a Computer Science student at Royal University of Phnom Penh, Cambodia</h3>
+<h3 align="center">Currently I'm a Computer Science and Engineering student at Royal University of Phnom Penh, Cambodia</h3>
 <img align="right" alt="Meow Coding" width="200" src="https://images-cdn.exchange.art/qshqgr0cjqmr5phD1tK-3gnohYWmfcXwx6VWnk27o38?ext=fastly&optimize=medium">
 
 
