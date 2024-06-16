@@ -3,7 +3,7 @@
 <img align="right" alt="Meow Coding" width="200" src="https://images-cdn.exchange.art/qshqgr0cjqmr5phD1tK-3gnohYWmfcXwx6VWnk27o38?ext=fastly&optimize=medium">
 
 
-- 🌱 I’m currently learning **Flutter Mobile Development.**
+- 🌱 I’m currently learning **Flutter Mobile Development and Kotlin.**
 
 - 📫 How to reach me **lmsreang3@gmail.com**
 
