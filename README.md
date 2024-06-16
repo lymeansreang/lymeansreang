@@ -9,7 +9,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![Skills](https://skillicons.dev/icons?i=html,css,js,flutter,dart,tailwind,postgres,figma,git,php,laravel,postman)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=html,css,js,flutter,dart,tailwind,postgres,figma,git,postman)](https://skillicons.dev)
 
 ## Live View Count
 
