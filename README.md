@@ -3,13 +3,13 @@
 <img align="right" alt="Meow Coding" width="200" src="https://images-cdn.exchange.art/qshqgr0cjqmr5phD1tK-3gnohYWmfcXwx6VWnk27o38?ext=fastly&optimize=medium">
 
 
-- 🌱 I’m currently learning **Flutter Mobile Development and Kotlin.**
+- 🌱 I’m currently learning ** Swift **
 
 - 📫 How to reach me **lmsreang3@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![Skills](https://skillicons.dev/icons?i=html,css,js,flutter,dart,tailwind,postgres,figma,git,postman,kotlin)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=html,css,js,flutter,dart,tailwind,postgres,figma,git,postman,swift)](https://skillicons.dev)
 
 ## Live View Count
 
